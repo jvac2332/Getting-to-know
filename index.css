@@ -1,0 +1,28 @@
+ul {list-style-type: square;}
+
+
+
+
+body{
+    background-image: url('Assassins.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+ul{
+    color:white
+}
+
+p{
+    color:white
+}
+
+li{
+    color:aqua
+}
+
+
+h2 {
+    color:pink ;
+
+}
